@@ -1,1 +1,1 @@
-# springdatajpa-mongodb
+# SpringDataJPA-mongoDB
